@@ -1,5 +1,5 @@
 
-# 📱 Proyecto Móvil – Gestión de Aplicación
+# 📱 Proyecto Móvil – Gestión de Aplicación Para GrownShop
 
 **Autor:** Joshua Mardonez
 
