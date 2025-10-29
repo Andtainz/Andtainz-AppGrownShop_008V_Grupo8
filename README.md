@@ -93,4 +93,3 @@ Proyecto_Movil/
 
 ---
 
-👉 ¿Quieres que te arme también un **diagrama visual del flujo** (en Mermaid o imagen) para complementar el README y que se entienda mejor el recorrido del usuario?
